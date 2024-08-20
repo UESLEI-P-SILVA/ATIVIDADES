@@ -1,0 +1,32 @@
+Para converter entre diferentes unidades de comprimento, você pode usar os seguintes fatores de conversão:
+
+Centímetro (cm) para Metro (m):
+
+1 metro = 100 centímetros
+Para converter de centímetros para metros, divida o valor em centímetros por 100.
+Exemplo: 250 cm ÷ 100 = 2,5 m
+Metro (m) para Centímetro (cm):
+
+1 metro = 100 centímetros
+Para converter de metros para centímetros, multiplique o valor em metros por 100.
+Exemplo: 3,5 m × 100 = 350 cm
+Metro (m) para Quilômetro (km):
+
+1 quilômetro = 1.000 metros
+Para converter de metros para quilômetros, divida o valor em metros por 1.000.
+Exemplo: 4.500 m ÷ 1.000 = 4,5 km
+Quilômetro (km) para Metro (m):
+
+1 quilômetro = 1.000 metros
+Para converter de quilômetros para metros, multiplique o valor em quilômetros por 1.000.
+Exemplo: 2,7 km × 1.000 = 2.700 m
+Centímetro (cm) para Quilômetro (km):
+
+1 quilômetro = 100.000 centímetros
+Para converter de centímetros para quilômetros, divida o valor em centímetros por 100.000.
+Exemplo: 150.000 cm ÷ 100.000 = 1,5 km
+Quilômetro (km) para Centímetro (cm):
+
+1 quilômetro = 100.000 centímetros
+Para converter de quilômetros para centímetros, multiplique o valor em quilômetros por 100.000.
+Exemplo: 0,8 km × 100.000 = 80.000 cm
